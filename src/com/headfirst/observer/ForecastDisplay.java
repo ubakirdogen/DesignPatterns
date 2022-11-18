@@ -35,5 +35,6 @@ public class ForecastDisplay implements Observer, DisplayElement {
         double temperature = weatherData.getTemperature();
         double pressure = weatherData.getPressure();
         calcSpecialMetric(temperature, pressure);
+        display();
     }
 }

@@ -12,8 +12,6 @@ public class WeatherDataTestDrive {
         System.out.println("---");
         weatherData.setTemperature(24.52);
         System.out.println("---");
-        currentConditionDisplay.display();
-        forecastDisplay.display();
 
     }
 }

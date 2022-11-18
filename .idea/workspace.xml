@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="309be587-eb76-4303-a662-40e9f5bd579e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/headfirst/observer/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/headfirst/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/headfirst/observer/ForecastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/headfirst/observer/ForecastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/headfirst/observer/WeatherDataTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/headfirst/observer/WeatherDataTestDrive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
