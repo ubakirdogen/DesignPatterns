@@ -10,10 +10,10 @@ public class DinerMenu implements Menu {
 
     public DinerMenu() {
         menuItems = new MenuItem[MAX_ITEMS];
-        addItem("Meal 1", "Description of Meal 1", false, 5.19);
-        addItem("Meal 2", "Description of Meal 2", true, 4.19);
-        addItem("Meal 3", "Description of Meal 3", false, 8.19);
-        addItem("Meal 4", "Description of Meal 4", true, 7.59);
+        addItem("Diner Meal 1", "Description of Diner Meal 1", false, 5.19);
+        addItem("Diner Meal 2", "Description of Diner Meal 2", true, 4.19);
+        addItem("Diner Meal 3", "Description of Diner Meal 3", false, 8.19);
+        addItem("Diner Meal 4", "Description of Diner Meal 4", true, 7.59);
     }
 
     public void addItem(String name, String description, boolean vegetarian, double price) {

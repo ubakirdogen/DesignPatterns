@@ -4,13 +4,15 @@ import java.util.Iterator;
 
 public class IteratorTestDrive {
     public static void main(String[] args) {
-        DinerMenu dinerMenu = new DinerMenu();
-        PancakeHouseMenu pancakeHouseMenu = new PancakeHouseMenu();
+        Menu dinerMenu = new DinerMenu();
+        Menu pancakeHouseMenu = new PancakeHouseMenu();
+        Menu cafeMenu = new CafeMenu();
 
         printMenu(dinerMenu);
         System.out.println("**************");
         printMenu(pancakeHouseMenu);
-
+        System.out.println("**************");
+        printMenu(cafeMenu);
     }
 
     public static void printMenu(Menu menu) {
