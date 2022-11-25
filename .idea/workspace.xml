@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="309be587-eb76-4303-a662-40e9f5bd579e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/designpatterns/iterator/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/designpatterns/iterator/DinerMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/designpatterns/iterator/IteratorTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/designpatterns/iterator/IteratorTestDrive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,34 +34,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/BAU2HKO/Desktop/PROJECT WORKSPACES/TOS_WS/Java/DesignPatterns",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "actions.on.save"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BAU2HKO/Desktop/PROJECT WORKSPACES/TOS_WS/Java/DesignPatterns&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.designpatterns.composite" />
       <recent name="com.designpatterns.iterator_new" />
       <recent name="com.headfirst.template" />
       <recent name="com.headfirst.facade" />
       <recent name="com.headfirst.factory" />
-      <recent name="com.headfirst.decorator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.designpatterns.iterator_new.IteratorTestDrive">
+  <component name="RunManager" selected="Application.CompositeTestDrive">
     <configuration name="AdapterTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.designpatterns.adapter.AdapterTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.designpatterns.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompositeTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatterns.composite.CompositeTestDrive" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatterns.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,7 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.designpatterns.iterator_new.IteratorTestDrive" />
+        <item itemvalue="Application.CompositeTestDrive" />
         <item itemvalue="Application.IteratorTestDrive" />
         <item itemvalue="Application.TemplateTestDrive" />
         <item itemvalue="Application.FacadeTestDrive" />
